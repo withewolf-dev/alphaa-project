@@ -1,1 +1,1 @@
-![/ss.png]
+![image](/ss.png)
